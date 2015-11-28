@@ -1,0 +1,50 @@
+.sr-topbar{   
+    margin-top: 80px;
+}
+@media (min-width: 992px){
+    .sr-topbar{
+        margin-top: 130px;
+    }
+}
+.sr-tagline {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sr-tagline input,
+.sr-tagline button{
+    height: 40px;
+}
+.sr-topbar2{
+    margin-bottom: 10px;
+}
+.sr-accordion{
+    margin-top: 15px;
+}
+.sr-refine{
+    min-height: 400px;
+    padding-top: 5px;
+}
+
+.sr-explor{
+    width: 85%;
+    display: block;
+    color:#FFF;
+    background-color: #F1600F;
+    border-color: rgb(241, 50, 15);
+}
+.panel-body{
+    padding: 8px 2px;
+}
+.panel-title{
+    width: 100%;
+    display: block;
+}
+.panel-heading{
+    padding: 6px 10px;
+}
+.panel-body li{
+    margin-left: -25px;
+    list-style-type: none;
+}
