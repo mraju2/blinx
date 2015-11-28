@@ -32,46 +32,25 @@ include_once './libs/const.php';
                 </div>
                 <div class="row padd20-top-btm">
                     <div class="col-md-12 t-center">
-                        <h3>Service 1</h3>
+                        <h3>Become a sighted volunteer</h3>
                         <p>
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
+                            Blinx could not exist without sighted volunteers. If you have time.
                         </p>
                     </div>
                 </div>
                 <div class="row padd20-top-btm">
                     <div class="col-md-12 t-center">
-                        <h3>Service 2</h3>
+                        <h3>Donate to the project</h3>
                         <p>
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
+                            If you want to help us reach millions of people, who are estimated to be visually impaired worldwide, you can donate to the project.
                         </p>
                     </div>
                 </div>
                 <div class="row padd20-top-btm">
                     <div class="col-md-12 t-center">
-                        <h3>Service 3</h3>
+                        <h3>Register to ask for a help</h3>
                         <p>
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
-                            Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here Service 1 Description comes here
+                            Blinx could not exist without people asking for help. If you need help register TODAY! Its free.
                         </p>
                     </div>
                 </div>

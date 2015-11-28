@@ -40,17 +40,8 @@ include_once './libs/const.php';
                 </div>
                 <div class="row">
                     <div class="col-md-8 col-sm-8">
-                        <h3>TITLE 1</h3>
-                        <p>asd asd asdhaksdh aojd alsdj laksjd alsdj askju asl;djk adlkas pdiak askjd oakjdaks dh oaasjd 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja
-                            sdu apsdipa
+                        <h3>Purpose</h3>
+                        <p>Blinx, the Web and Mobile Technology based service to Blind and volunteers, help both the volunteers and the blind to get mutual benefits.  Through BLINX, the volunteers get the opportunity to offer their service and the blind too can easily access the services of the volunteers.
                         </p>
                     </div>
                     <div class="col-md-4 col-sm-4">
@@ -63,35 +54,28 @@ include_once './libs/const.php';
                         <img src="resources/photo/2.png" class="img-responsive img-rounded" alt="helping student to study">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <h3>Title</h3>
+                        <h3>Functionality</h3>
 
-                        <p>asd asd asdhaksdh aojd alsdj laksjd alsdj askju asl;djk adlkas pdiak askjd oakjdaks dh oaasjd 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja
-                            sdu apsdipa
+                        <p><ol><li>Volunteer can view history of help requests he served.</li>
+<li>Volunteer can cancel accepted requests.</li>
+<li>Volunteer can give his feedback.</li>
+<li>A volunteer has direct access to blind.</li>
+<li>Volunteer can offer the service basing on his/her convenient location , time and expertise.</li><li>A blind will get a suitable volunteer according to his requirement.</li></ol>
+
+
                         </p>
                     </div>
                 </div>
 
                 <div class="row padd20-top-btm">
                     <div class="col-md-12 text-center">
-                        <h3>TITLE-3</h3>
-                        <p>asd asd asdhaksdh aojd alsdj laksjd alsdj askju asl;djk adlkas pdiak askjd oakjdaks dh oaasjd 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja 
-                            oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia djasdu apsdipa laksjd alsdj askju asl;djk 
-                            adlkas pdiak askjd oakjdaks dh oaasjd oaksjd asjid aksdja lskdj aksdja sdua dasdiapo sdia dja
-                            sdu apsdipa
+                        <h3>Result</h3>
+                        <p><li>A blind will get a suitable volunteer according to his requirement.</li>
+<li>A volunteer has direct access to blind.</li>
+<li>Volunteer can offer the service based as per his/her convenient location , time and expertise.</li>
+Hence it is proved with the help of blinx  "A blind can get assistant for his necessities  and his network will grow by connecting with different volunteers."
+
+
                         </p>
                     </div>
                 </div>
