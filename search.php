@@ -33,21 +33,21 @@ include_once './libs/search.php';
                                 include './tags/search/search-refine.php';
                                 //
                                 $x = 2;
-                                $_filters = $value[$_key];
                                 $_key = "date_range";
+                                $_filters = $value[$_key];
                                 $_fiter_title = "Date range";
                                 include './tags/search/search-refine.php';
                                 //
                                 $x = 3;
-                                $_filters = $value[$_key];
                                 $_key = "distance_range";
+                                $_filters = $value[$_key];
                                 $_fiter_title = "Distance range";
                                 include './tags/search/search-refine.php';
                                 //
                                 $x = 4;
-                                $_key = "distance_range";
+                                $_key = "duration_range";
                                 $_filters = $value[$_key];
-                                $_fiter_title = "Duration range";
+                                $_fiter_title = "duration range";
                                 include './tags/search/search-refine.php';
                                 ?>
                             </div>
