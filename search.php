@@ -47,7 +47,7 @@ include_once './libs/search.php';
                                 $x = 4;
                                 $_key = "distance_range";
                                 $_filters = $value[$_key];
-                                $_fiter_title = "Distance range";
+                                $_fiter_title = "Duration range";
                                 include './tags/search/search-refine.php';
                                 ?>
                             </div>
