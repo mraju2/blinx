@@ -11,9 +11,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="carousel-content">
-                                <h2 class="animated fadeInLeftBig text-center text-black">Side 1</h2>
+                                <h2 class="animated fadeInLeftBig text-center text-black">JOIN - CHOOSE - HELP</h2>
                                 <p class="animated rollIn text-black text-center">
-                                    asdadh lajkdslajds aljsd alsdjkla dsjlasjd alsjkdal sdja lskdjalskjda sldkjasld kjasdlkajsd aljksd alskjd asdjal sdkja lskdjalsdkja sdjasldj alsdja sljda sl
+                                    You need not die to help a blind with sight.
                                 </p>  
                             </div>
                         </div> 
@@ -25,9 +25,9 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="carousel-content">
-                                <h3 class="animated fadeInLeftBig text-left">Banner 1</h3>
+                                <h3 class="animated fadeInLeftBig text-left">EMPOWER</h3>
                                 <p class="animated fadeInDownBig text-left"> 
-                                    asdadh lajkdslajds aljsd alsdjkla dsjlasjd alsjkdal sdja lskdjalskjda sldkjasld kjasdlkajsd aljksd alskjd asdjal sdkja lskdjalsdkja sdjasldj alsdja sljda sl
+                                    Together, We Can Transform Lives by Teaching the blind and visually impaired. 
                                 </p>
                             </div>
                         </div>

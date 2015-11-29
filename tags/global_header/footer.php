@@ -4,19 +4,20 @@
         <div class="row">
             <div class="col-md-12">
                 <h3>Blinx</h3>
-                <p>TODO: Need to get some caption about blinx</p>
+                <p>JOIN - CHOOSE - HELP</p>
 
                 <ul class="list-unstyled social-icon">
                     <li><a href="https://www.facebook.com/Blinx-1013687085339547/" rel="tooltip" title="Facebook" class="icon-facebook"><span><i class="fa fa-facebook-square"></i></span></a></li>
-                    <li><a href="#" rel="tooltip" title="Twitter" class="icon-twitter"><span><i class="fa fa-twitter"></i></span></a></li>
-                    <li><a href="#" rel="tooltip" title="Instagram" class="icon-gplus"><span><i class="fa fa-google-plus"></i></span></a></li>
+                    <li><a href="https://twitter.com/reachtoblinx/" rel="tooltip" title="Twitter" class="icon-twitter"><span><i class="fa fa-twitter"></i></span></a></li>
+                    <li><a href="https://in.linkedin.com/in/blinx/" rel="tooltip" title="LinkedIn" class="icon-gplus"><span><i class="fa fa-linkedin"></i></span></a></li>
                 </ul>
 
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="L9K45LTQQH4VJ">
-                    <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                </form>
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="L9K45LTQQH4VJ">
+					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+				</form>
 
                 <div class="sitemap">
                     <ul>
