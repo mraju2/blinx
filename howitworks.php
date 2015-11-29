@@ -4,18 +4,11 @@ $_pageid = 2;
 ?>
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-
-        <title>How it works</title>
-
-        <link href="resources/css/bootstrap.css" rel="stylesheet">
-        <link href="resources/css/responsive.css" rel="stylesheet">
-        <link href="resources/css/style.css" rel="stylesheet">
-        <link href="resources/css/pages.css" rel="stylesheet">
-
+    <head>   
+        <?php
+        $_TITLE = "Request Service";
+        include_once './tags/common/head.php';
+        ?>
     </head>
 
     <body>
@@ -58,10 +51,10 @@ $_pageid = 2;
                         <h3>Functionality</h3>
 
                         <p><ol><li>Volunteer can view history of help requests he served.</li>
-<li>Volunteer can cancel accepted requests.</li>
-<li>Volunteer can give his feedback.</li>
-<li>A volunteer has direct access to blind.</li>
-<li>Volunteer can offer the service basing on his/her convenient location , time and expertise.</li><li>A blind will get a suitable volunteer according to his requirement.</li></ol>
+                            <li>Volunteer can cancel accepted requests.</li>
+                            <li>Volunteer can give his feedback.</li>
+                            <li>A volunteer has direct access to blind.</li>
+                            <li>Volunteer can offer the service basing on his/her convenient location , time and expertise.</li><li>A blind will get a suitable volunteer according to his requirement.</li></ol>
 
 
                         </p>
@@ -72,9 +65,9 @@ $_pageid = 2;
                     <div class="col-md-12 text-center">
                         <h3>Result</h3>
                         <p><li>A blind will get a suitable volunteer according to his requirement.</li>
-<li>A volunteer has direct access to blind.</li>
-<li>Volunteer can offer the service based as per his/her convenient location , time and expertise.</li>
-Hence it is proved with the help of blinx  "A blind can get assistant for his necessities  and his network will grow by connecting with different volunteers."
+                        <li>A volunteer has direct access to blind.</li>
+                        <li>Volunteer can offer the service based as per his/her convenient location , time and expertise.</li>
+                        Hence it is proved with the help of blinx  "A blind can get assistant for his necessities  and his network will grow by connecting with different volunteers."
 
 
                         </p>
