@@ -105,9 +105,6 @@ function run_query() {
     $data['requests'] = array();
     while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC)) {
         array_push($data['requests'], $row);
-        array_push($data['requests'], $row);
-        array_push($data['requests'], $row);
-        array_push($data['requests'], $row);
     }
     //service type
     $data['service_type'] = array(
