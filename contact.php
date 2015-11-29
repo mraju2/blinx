@@ -34,14 +34,12 @@ include_once './libs/const.php';
                 </div>
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h3>TITLE</h3>
+                        <h3>Address</h3>
                         <p>
-                            content content content content content content content content content content content content content 
-                            content content content content content content content content content content content content content 
-                            content content content content content content content content content content content content content 
-                            content content content content content content content content content content content content content 
-                            content content content content content content content content content content content content content 
-                            content content content content content content content content content content content content content
+                           # 6, 3rd H Street, Markham Road, Ashoknagar, Bangalore -560025<br>
+
+						   pH: 9538088668
+
                         </p>
                     </div>
                 </div>
@@ -51,7 +49,9 @@ include_once './libs/const.php';
                     ?>
                     <form method="post" action="contact.html">
                         <div class="col-md-5 col-sm-5">
-                            <h3>send message</h3>
+                            <h3>Send us message, we love to hear from you </h3>
+							
+
                             <input type="text" name="name" class="form-control" placeholder="Enter your name" required="">
                             <input type="email" name="email" class="form-control" placeholder="Enter your mail" required="">
                             <input type="text" name="subject" class="form-control" placeholder="Enter your subject" required="">

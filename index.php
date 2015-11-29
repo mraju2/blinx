@@ -17,8 +17,11 @@ include_once './libs/const.php';
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h2>You don't want to die to donate your vision</h2>
-                        <p>Some good text comes here </p>
+                        <h2>You don't want to die to donate your Eyes</h2>
+                        <p>Eyes are the windows to the world’. This saying brings out the importance of the healthy vision. Only healthy eyes can serve as a clean, clear windows, through which people can acquire immense knowledge. But, unfortunately, some vision defects completely close this window to the world. We are talking about the blind and severely visually impaired persons, for whom the options to open the windows are very limited.<br><br>
+
+Blindness may happen to anyone, at any time and at any place. People become blind due to accidents, wrong treatment, optical imbalance or a genetic defect. 
+</p>
                     </div>
                 </div>
             </div>
