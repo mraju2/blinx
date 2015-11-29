@@ -1,5 +1,6 @@
 <?php
 include_once './libs/const.php';
+$_pageid = 3;
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -1,6 +1,7 @@
 <?php
 include_once './libs/const.php';
 include_once './libs/search.php';
+$_pageid = 5;
 ?>
 <!DOCTYPE html>
 <html lang="en">
