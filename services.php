@@ -35,7 +35,7 @@ $_pageid = 6;
                     <div class="col-md-12 t-center">
                         <h3>Become a sighted volunteer</h3>
                         <p>
-                            Blinx could not exist without sighted volunteers. If you have time.
+                            Blinx could not exist without sighted volunteers. If you have time, help today.
                         </p>
                     </div>
                 </div>

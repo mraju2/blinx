@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="heading-title">
                     <h2>Services</h2>
-                    <p>Some captions  </p>
+                    <p>JOIN - CHOOSE - HELP</p>
                 </div>
             </div>
         </div>
@@ -16,7 +16,7 @@
                     </div>
                     <h3>Become a sighted volunteer</h3>
                         <p>
-                            Blinx could not exist without sighted volunteers. If you have time.
+                            Blinx could not exist without sighted volunteers. If you have time, help today.
                         </p>
                 </div>
             </div>
@@ -42,9 +42,18 @@
                         </p>
                 </div>
             </div>
-            <div class="col-md-12 col-sm-12">
-                <a href="<?php echo URL_SERVICE ?>" class="btn btn-warning btn-lg">Know More..</a>
-            </div>
+
+			<div class="col-md-12 col-sm-12"> 
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="L9K45LTQQH4VJ">
+                    <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                </form>
+ 
+             </div> 
+
+
+		
         </div>
     </div>
 </div>

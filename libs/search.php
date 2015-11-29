@@ -26,7 +26,8 @@ function run_query() {
     $latitude_low = $lat - ($distanceFilter / 100);
     $latitude_high = $lat + ($distanceFilter / 100);
     $where = " and req.longitude between " . $longitude_low . " and " . $longitude_high . " and req.latitude between " . $latitude_low . " and " . $latitude_high;
-
+	
+	// Filtering logic
     if (isset($_GET["help"]) && $_GET["help"] != '') {
         $where = $where . " and req.helpId in ( " . $_GET["help"] . ") ";
     }
