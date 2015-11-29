@@ -1,5 +1,7 @@
 <?php
 include_once './libs/const.php';
+include_once './libs/search.php';
+$_pageid = 5;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,20 +19,62 @@ include_once './libs/const.php';
         <!-- begin:tagline -->
         <div class="container">
             <?php include './tags/search/search-header.php'; ?>
-            <div class="sr-topbar2"></div>
-            <?php include './tags/search/search-tool.php'; ?>
-            <div class="row">
-                <div class="col-sm-4 hidden-xs">
-                    <div  class="sr-refine">
-                        <?php include './tags/search/search-refine.php'; ?>
+            <?php if (is_array($value)) { ?>
+                <div class="sr-topbar2"></div>
+                <?php if (count($value['requests']) > 0) { ?>
+                    <?php include './tags/search/search-tool.php'; ?>
+                    <div class="row">
+                        <div class="col-sm-4 hidden-xs">
+                            <div  class="sr-refine">
+                                <?php
+                                $x = 1;
+                                $_key = "service_type";
+                                $_filters = $value[$_key];
+                                $_fiter_title = "Service Type";
+                                include './tags/search/search-refine.php';
+                                //
+                                $x = 2;
+                                $_key = "date_range";
+                                $_filters = $value[$_key];
+                                $_fiter_title = "Date range";
+                                include './tags/search/search-refine.php';
+                                //
+                                $x = 3;
+                                $_key = "distance_range";
+                                $_filters = $value[$_key];
+                                $_fiter_title = "Distance range";
+                                include './tags/search/search-refine.php';
+                                //
+                                $x = 4;
+                                $_key = "duration_range";
+                                $_filters = $value[$_key];
+                                $_fiter_title = "duration range";
+                                include './tags/search/search-refine.php';
+                                ?>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-8">
+                            <div>
+                                <?php
+                                foreach ($value['requests'] as &$request) {
+                                    include './tags/search/search-listing.php';
+                                }
+                                ?>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-8">
-                    <div>
-                        <?php include './tags/search/search-listing.php'; ?>
-                    </div>
-                </div>
-            </div>
+                    <?php
+                } else {
+                    include './tags/search/search-start.php';
+                }
+            } else {
+                if ($_empty_call) {
+                    include './tags/search/search-start.php';
+                } else {
+                    include './tags/search/search-messages.php';
+                }
+            }
+            ?>
         </div>
         <div class="sr-topbar2"></div>
         <!-- end:tagline -->
